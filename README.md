@@ -1,5 +1,5 @@
-# number_gusser
-3rd js assignment for FSPJ_2023 in BOHUBRIHI.
+number_gusser
+3rd JS assignment for FSPJ_2023 in BOHUBRIHI.
 Task for this Assignment
 
 You will make a game where user has to input a number between a range. User will have 3 chances to guess the correct number.
